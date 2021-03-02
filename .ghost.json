@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://cesar-almeida.herokuapp.com",
+    "contentApiKey": "498380ffb9972373cc57ce27ac"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://cesar-almeida.herokuapp.com",
+    "contentApiKey": "498380ffb9972373cc57ce27ac"
   }
 }
